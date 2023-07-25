@@ -49,13 +49,17 @@ export default {
       return acc;
     }, []);
 
-    const numSuggestions = Math.floor(Math.random() * 2) + 3;
-    for (let i = 0; i < numSuggestions; i++) {
+
+    for (let i = 0; i <  Math.floor(Math.random() * 2) + 3; i++) {
       const randomIndex = Math.floor(Math.random() * allPlats.length);
       this.suggestions.push(allPlats.splice(randomIndex, 1)[0]);
     }
 
-    this.autreListe = allPlats.splice(0, Math.floor(Math.random() * 3) + 6);
+    for (let i = 0; i <  Math.floor(Math.random() * 5) + 6; i++) {
+      const randomIndex = Math.floor(Math.random() * allPlats.length);
+      this.autreListe.push(allPlats.splice(randomIndex, 1)[0]);
+    }
+
   },
 };
 </script>

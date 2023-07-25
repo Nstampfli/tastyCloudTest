@@ -52,7 +52,7 @@
   ],
   "cocktails": [
     {
-      "title": "Soft 01",
+      "title": "Cocktail 01",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
       "price": 10.99,
       "imgUrl": "cocktail-01.jpg",
