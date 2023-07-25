@@ -1,0 +1,238 @@
+{
+  "plats": [
+    {
+      "title": "Plat 01",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+      "price": 10.99,
+      "imgUrl": "plat-01.jpg",
+      "type": "plats"
+    },
+    {
+      "title": "Plat 02",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+      "price": 12.49,
+      "imgUrl": "plat-02.jpg",
+      "type": "plats"
+    },
+    {
+      "title": "Plat 03",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+      "price": 8.75,
+      "imgUrl": "plat-03.jpg",
+      "type": "plats"
+    },
+    {
+      "title": "Plat 04",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+      "price": 15.25,
+      "imgUrl": "plat-04.jpg",
+      "type": "plats"
+    },
+    {
+      "title": "Plat 05",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+      "price": 9.99,
+      "imgUrl": "plat-05.jpg",
+      "type": "plats"
+    },
+    {
+      "title": "Plat 06",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+      "price": 11.5,
+      "imgUrl": "plat-06.jpg",
+      "type": "plats"
+    },
+    {
+      "title": "Plat 07",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+      "price": 14.75,
+      "imgUrl": "plat-07.jpg",
+      "type": "plats"
+    }
+  ],
+  "cocktails": [
+    {
+      "title": "Soft 01",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+      "price": 10.99,
+      "imgUrl": "cocktail-01.jpg",
+      "type": "cocktails"
+    },
+    {
+      "title": "Cocktail 02",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+      "price": 12.49,
+      "imgUrl": "cocktail-02.jpg",
+      "type": "cocktails"
+    },
+    {
+      "title": "Cocktail 03",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+      "price": 8.75,
+      "imgUrl": "cocktail-03.jpg",
+      "type": "cocktails"
+    },
+    {
+      "title": "Cocktail 04",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+      "price": 15.25,
+      "imgUrl": "cocktail-04.jpg",
+      "type": "cocktails"
+    },
+    {
+      "title": "Cocktail 05",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+      "price": 9.99,
+      "imgUrl": "cocktail-05.jpg",
+      "type": "cocktails"
+    },
+    {
+      "title": "Cocktail 06",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+      "price": 11.5,
+      "imgUrl": "cocktail-06.jpg",
+      "type": "cocktails"
+    },
+    {
+      "title": "Cocktail 07",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+      "price": 14.75,
+      "imgUrl": "cocktail-07.jpg",
+      "type": "cocktails"
+    }
+  ],
+  "beers": [
+    {
+      "title": "Bière 01",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+      "price": 10.99,
+      "imgUrl": "beer-01.jpeg",
+      "type": "beers"
+    },
+    {
+      "title": "Bière 02",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+      "price": 12.49,
+      "imgUrl": "beer-02.webp",
+      "type": "beers"
+    },
+    {
+      "title": "Bière 03",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+      "price": 8.75,
+      "imgUrl": "beer-03.webp",
+      "type": "beers"
+    },
+    {
+      "title": "Bière 04",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+      "price": 15.25,
+      "imgUrl": "beer-04.jpeg",
+      "type": "beers"
+    },
+    {
+      "title": "Bière 05",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+      "price": 8.75,
+      "imgUrl": "beer-05.jpeg",
+      "type": "beers"
+    }
+  ],
+  "softs": [
+    {
+      "title": "Soft 01",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+      "price": 10.99,
+      "imgUrl": "soft-01.webp",
+      "type": "softs"
+    },
+    {
+      "title": "Soft 02",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+      "price": 12.49,
+      "imgUrl": "soft-02.jpeg",
+      "type": "softs"
+    },
+    {
+      "title": "Soft 03",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+      "price": 8.75,
+      "imgUrl": "soft-03.webp",
+      "type": "softs"
+    },
+    {
+      "title": "Soft 04",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+      "price": 8.75,
+      "imgUrl": "soft-04.webp",
+      "type": "softs"
+    }
+  ],
+  "desserts": [
+    {
+      "title": "Dessert 01",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+      "price": 10.99,
+      "imgUrl": "dessert-01.webp",
+      "type": "desserts"
+    },
+    {
+      "title": "Dessert 02",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+      "price": 12.49,
+      "imgUrl": "dessert-02.jpeg",
+      "type": "desserts"
+    },
+    {
+      "title": "Dessert 03",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+      "price": 8.75,
+      "imgUrl": "dessert-03.webp",
+      "type": "desserts"
+    },
+    {
+      "title": "Dessert 04",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+      "price": 8.75,
+      "imgUrl": "dessert-04.webp",
+      "type": "desserts"
+    },
+    {
+      "title": "Dessert 05",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+      "price": 8.75,
+      "imgUrl": "dessert-05.jpeg",
+      "type": "desserts"
+    },
+    {
+      "title": "Dessert 06",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+      "price": 8.75,
+      "imgUrl": "dessert-06.jpeg",
+      "type": "desserts"
+    }
+  ],
+  "starters": [
+    {
+      "title": "Starter 01",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+      "price": 10.99,
+      "imgUrl": "starter-01.jpeg",
+      "type": "starters"
+    },
+    {
+      "title": "Starter 02",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+      "price": 12.49,
+      "imgUrl": "starter-02.jpeg",
+      "type": "starters"
+    },
+    {
+      "title": "Starter 03",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+      "price": 8.75,
+      "imgUrl": "starter-03.webp",
+      "type": "starters"
+    }
+  ]
+}
