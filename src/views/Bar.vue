@@ -42,8 +42,6 @@ export default {
       softs: json.softs,
     };
   },
-
-  methods: {},
 };
 </script>
 

@@ -39,8 +39,6 @@ export default {
     };
   },
 
-  methods: {},
-
   mounted() {
     const allPlats = Object.keys(json).reduce((acc, key) => {
       if (Array.isArray(json[key])) {
